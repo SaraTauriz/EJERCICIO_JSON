@@ -1,0 +1,111 @@
+[ 
+    {
+        "codigo": "001",
+        "Apellido": "Flores Cedeño", 
+        "nombre": "Alexandra Alexa", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0994946046", 
+        "Correo": "florescedeno@gmail.com"
+    },
+
+    {
+        "codigo": "002",
+        "Apellido": "Tauriz Solorzano", 
+        "nombre": "Sara Ivette", 
+        "semestre": "Primer semestre", 
+        "paralelo": "B", 
+        "direccion": "Manta", 
+        "Telefono": "0994015784", 
+        "Correo": "saratauriz@gmail.com"
+    },
+
+    {
+        "codigo": "003",
+        "Apellido": "Mera Palma", 
+        "nombre": "Diego Raul", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0993063875", 
+        "Correo": "diego9899@gmail.com"
+    },
+
+    {
+        "codigo": "004",
+        "Apellido": "Palma Mera", 
+        "nombre": "Raul Diego", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0958705341", 
+        "Correo": "palmar784@gmail.com"
+    },
+
+    {
+        "codigo": "005",
+        "Apellido": "Cedeño Flores", 
+        "nombre": "Andres William", 
+        "semestre": "Primer semestre", 
+        "paralelo": "B", 
+        "direccion": "Manta", 
+        "Telefono": "0994946046", 
+        "Correo": "cedenoflores@gmail.com"
+    },
+
+    {
+        "codigo": "006",
+        "Apellido": "Calderon Calderon", 
+        "nombre": "Jhonson Juan", 
+        "semestre": "Primer semestre", 
+        "paralelo": "B", 
+        "direccion": "Manta", 
+        "Telefono": "0994946046", 
+        "Correo": "calderon1254@gmail.com"
+    },
+
+    {
+        "codigo": "007",
+        "Apellido": "Macias Calderon", 
+        "nombre": "Pepe Pedro", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0994946046", 
+        "Correo": "macias_pedro@gmail.com"
+    },
+
+    {
+        "codigo": "008",
+        "Apellido": "Calderon Macias", 
+        "nombre": "Girasol Violeta", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0994946046", 
+        "Correo": "girasol5260@gmail.com"
+    },
+
+    {
+        "codigo": "009",
+        "Apellido": "Flores Quijije", 
+        "nombre": "William Zamora", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0963930338", 
+        "Correo": "williamflores@gmail.com"
+    },
+
+    {
+        "codigo": "010",
+        "Apellido": "Cruz Alvarado", 
+        "nombre": "Roger David", 
+        "semestre": "Primer semestre", 
+        "paralelo": "A", 
+        "direccion": "Manta", 
+        "Telefono": "0991245789", 
+        "Correo": "cruz_roger@gmail.com"
+    }
+]
